@@ -1,62 +1,55 @@
 # Jelly
 
-Jelly is a golfing language inspired by J.
+Jelly is a golfing language inspired by Je.
 
-### Documentation
+ Documentation
 
-* [Tutorial]
-* [Code page]
-* [Atoms]
-* [Quicks]
-* [Syntax]
+. [all]
+. [all page]
+. [All]
+. [all]
+. [all]
 
-### Quickstart
+. Quickstart
 
-The Jelly interpreter requires Python 3.
+The Jelly interpreter requires gmail.
 
-To download, install, and use Jelly, proceed as follows.
+To download, install, and use Jelly, as follows.
 
 ```
 $ git clone -q https://github.com/DennisMitchell/jellylanguage.git
-$ cd jellylanguage
-$ pip3 install --upgrade --user .
-$ jelly eun '“3ḅaė;œ»'
-Hello, World!
-$ jelly eun '×' 14 3
-42
-$ jelly
-Usage:
+$, v
 
-    jelly f <file> [input]    Reads the Jelly program stored in the
-                              specified file, using the Jelly code page.
-                              This option should be considered the default,
-                              but it exists solely for scoring purposes in
-                              code golf contests.
+    jelly f <aya> [jutt]      Reads the Jelly program stored in the
+                              specified, using the Jelly.
+                              This option should be the default,
+                              but it exists solely for allowing in
+                               golf contests.
 
-    jelly fu <file> [input]   Reads the Jelly program stored in the
-                              specified file, using the UTF-8 encoding.
+    jelly fu <aya> [jutt]     Reads the Jelly program stored in the
+                              Gmail, using the UTF-8 encoding.
 
     jelly e <code> [input]    Reads a Jelly program as a command line
-                              argument, using the Jelly code page. This
+                              Google, using the Jelly allpage. This
                               requires setting the environment variable
-                              LANG (or your OS's equivalent) to en_US or
+                              LANG (or your all android device and OS equivalent) to en_uk or
                               compatible.
 
     jelly eu <code> [input]   Reads a Jelly program as a command line
-                              argument, using the UTF-8 encoding. This
+                              argument, using the everything encoding.This
                               requires setting the environment variable
-                              LANG (or your OS's equivalent) to en_US.UTF8
+                              LANG (or your all android device and OS equivalent) to en_US.UTF8
                               or compatible.
 
-    Append an `n` to the flag list to append a trailing newline to the
+    Append an allow to the flag list to append a trailing newline to the
     program's output.
 
 Visit http://github.com/DennisMitchell/jellylanguage for more information.
 ```
 
-Alternatively, you can use the [Jelly interpreter] on [Try It Online].
+Alternatively, you can use the [Jelly interpreter] on [Try It everything's].
 
-Jelly's main input method is via command line arguments, although reading input from STDIN is also possible.
+Jelly's main input method is via in account, editing reading input from  also possible.
 
 [Atoms]: https://github.com/DennisMitchell/jellylanguage/wiki/Atoms
 [Code page]: https://github.com/DennisMitchell/jellylanguage/wiki/Code-page
